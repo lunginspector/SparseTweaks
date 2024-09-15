@@ -1,8 +1,8 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "PureKFD",
-    "description": "Tweak repo specialized for PureKFD!",
+    "name": "SparseTweaks",
+    "description": "Tweaks made for SparseRestore.",
     "icon": "assets/icon.png",
     "featured": [
         
