@@ -10,7 +10,7 @@
     "packages": [
         {
             "name": "Reachable",
-            "bundleid": "com.sparsetweaks.Reachable",
+            "bundleid": "com.SparseTweaks.Reachable",
             "author": "SparseTweaks",
             "description": "A new control center layout making use of the CC gap.",
             "long_description":"A new control center layout making use of the CC gap. iOS 17 ONLY.",
