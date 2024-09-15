@@ -9,11 +9,11 @@
     ],
     "packages": [
         {
-            "name": "Reachable",
+            "name": "BootloopBuddy",
             "bundleid": "com.SparseTweaks.Reachable",
             "author": "SparseTweaks",
-            "description": "A new control center layout making use of the CC gap.",
-            "long_description":"A new control center layout making use of the CC gap. iOS 17 ONLY.",
+            "description": "Bootloops your device.",
+            "long_description":"Bootloops your device. Will auto-restore on iOS 17.4.1+",
             "version": "1.0",
             "icon": "assets/IMG_0009.png",
             "banner":"assets/IMG_0007.png",
