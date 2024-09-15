@@ -15,11 +15,10 @@
             "description": "Bootloops your device.",
             "long_description":"Bootloops your device. Will auto-restore on iOS 17.4.1+",
             "version": "1.0",
-            "icon": "assets/IMG_0009.png",
+            "icon": "assets/bootloopbuddy.PNG",
             "banner":"assets/IMG_0007.png",
             "path": "pkgs/com.SparseTweaks.Reachable.zip",
             "screenshots":[
-                "assets/screenshots/IMG_0085.jpeg",
             ],
             "varOnly":true
         }
