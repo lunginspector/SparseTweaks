@@ -9,24 +9,10 @@
     ],
     "packages": [
         {
-            "name": "BootloopBuddy",
-            "bundleid": "com.SparseTweaks.Reachable",
-            "author": "SparseTweaks",
-            "description": "Bootloops your device.",
-            "long_description":"Bootloops your device. Will auto-restore on iOS 17.4.1+",
-            "version": "1.0",
-            "icon": "assets/bootloopbuddy.PNG",
-            "banner":"assets/IMG_0007.png",
-            "path": "pkgs/com.SparseTweaks.Reachable.zip",
-            "screenshots":[
-            ],
-            "varOnly":true
-        },
-        {
             "name": "CleanWidgy",
             "bundleid": "com.SparseTweaks.CleanWidgy",
             "author": "SparseTweaks",
-            "description": "Removes the Widgy app label. DOESNT WORK",
+            "description": "Removes the Widgy app label. DOES NOT WORK",
             "long_description":"Ts dont work",
             "version": "1.0",
             "icon": "assets/IMG_0405.png",
