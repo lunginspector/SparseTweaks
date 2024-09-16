@@ -9,11 +9,11 @@
     ],
     "packages": [
         {
-            "name": "CleanWidgy",
-            "bundleid": "com.SparseTweaks.CleanWidgy",
+            "name": "Test Preferences",
+            "bundleid": "com.SparseTweaks.TestPrefs.zip",
             "author": "SparseTweaks",
-            "description": "Removes the Widgy app label. DOES NOT WORK",
-            "long_description":"Ts dont work",
+            "description": "Short Description",
+            "long_description":"Long Description",
             "version": "1.0",
             "icon": "assets/IMG_0405.png",
             "banner":"assets/IMG_0007.png",
