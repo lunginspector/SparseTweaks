@@ -23,7 +23,7 @@
             "varOnly":true
         },
         {
-            "name": "Clean Widgy",
+            "name": "CleanWidgy",
             "bundleid": "com.SparseTweaks.CleanWidgy",
             "author": "SparseTweaks",
             "description": "Removes the Widgy app label. DOESNT WORK",
