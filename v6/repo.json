@@ -21,6 +21,20 @@
             "screenshots":[
             ],
             "varOnly":true
+        },
+        {
+            "name": "Springify Test",
+            "bundleid": "com.SparseTweaks.SpringifyTest",
+            "author": "SparseTweaks",
+            "description": "Short Description",
+            "long_description":"Long Description",
+            "version": "1.0",
+            "icon": "assets/IMG_0405.png",
+            "banner":"assets/IMG_0007.png",
+            "path": "pkgs/com.SparseTweaks.SpringifyTest.zip",
+            "screenshots":[
+            ],
+            "varOnly":true
         }
     ]
 }
