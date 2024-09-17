@@ -10,14 +10,14 @@
     "packages": [
         {
             "name": "Test Preferences",
-            "bundleid": "com.SparseTweaks.TestPrefs",
+            "bundleid": "com.SparseTweaks.CleanWidgy",
             "author": "SparseTweaks",
             "description": "Short Description",
             "long_description":"Long Description",
             "version": "1.0",
             "icon": "assets/IMG_0405.png",
             "banner":"assets/IMG_0007.png",
-            "path": "pkgs/com.SparseTweaks.TestPrefs.zip",
+            "path": "pkgs/com.SparseTweaks.CleanWidgy.purekfd.zip",
             "screenshots":[
             ],
             "varOnly":true
