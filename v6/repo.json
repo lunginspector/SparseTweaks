@@ -2,8 +2,8 @@
     "spec":"1.0",
     "repotype":"purekfdextended",
     "name": "SparseTweaks",
-    "description": "Tweaks made for SparseRestore.",
-    "icon": "assets/IMG_0008.png",
+    "description": "A suite of SparseRestore Tweaks.",
+    "icon": "assets/SparseTweaksIcon.png",
     "featured": [
         
     ],
@@ -16,7 +16,7 @@
             "long_description":"Overrides the Status Bar & Lock Screen to display information as if it were a Demo device.",
             "version": "1.0",
             "icon": "assets/DemoStatusBar.png",
-            "banner":"assets/IMG_0007.png",
+            "banner":"assets/DemoStatusBarBanner.png",
             "path": "pkgs/com.SparseTweaks.DemoStatusBar.purekfd",
             "screenshots":[
             ],
