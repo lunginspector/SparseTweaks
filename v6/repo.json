@@ -9,29 +9,15 @@
     ],
     "packages": [
         {
-            "name": "Test Preferences",
-            "bundleid": "com.SparseTweaks.CleanWidgy",
+            "name": "DemoStatusBar",
+            "bundleid": "com.SparseTweaks.DemoStatusBar",
             "author": "SparseTweaks",
-            "description": "Short Description",
-            "long_description":"Long Description",
+            "description": "Overrides the Status Bar & Lock Screen to display information as if it were a Demo device.",
+            "long_description":"Overrides the Status Bar & Lock Screen to display information as if it were a Demo device.",
             "version": "1.0",
-            "icon": "assets/IMG_0405.png",
+            "icon": "assets/DemoStatusBar.png",
             "banner":"assets/IMG_0007.png",
-            "path": "pkgs/com.SparseTweaks.CleanWidgy.purekfd.zip",
-            "screenshots":[
-            ],
-            "varOnly":true
-        },
-        {
-            "name": "Springify Test",
-            "bundleid": "com.SparseTweaks.SpringifyTest",
-            "author": "SparseTweaks",
-            "description": "Short Description",
-            "long_description":"Long Description",
-            "version": "1.0",
-            "icon": "assets/IMG_0405.png",
-            "banner":"assets/IMG_0007.png",
-            "path": "pkgs/com.SparseTweaks.SpringifyTest.zip",
+            "path": "pkgs/com.SparseTweaks.DemoStatusBar.purekfd",
             "screenshots":[
             ],
             "varOnly":true
