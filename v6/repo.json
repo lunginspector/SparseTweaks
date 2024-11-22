@@ -21,6 +21,19 @@
             "screenshots":[
             ],
             "varOnly":true
-        }
-    ]
+        },
+        {
+            "name": "Springify",
+            "bundleid": "com.SparseTweaks.Springify",
+            "author": "SparseTweaks",
+            "description": "Multiple SpringBoard tweaks for SparseRestore.",
+            "long_description":"This tweak targets com.apple.springboard.plist to bring 15+ SpringBoard tweaks. Disable annoying SpringBoard features like Breadcrumbs and Low Power Alerts, and enable features such as WiFi RSSI.",
+            "version": "1.0",
+            "icon": "assets/SpringifyIcon.png",
+            "banner":"assets/SpringifyBanner.png",
+            "path": "pkgs/com.SparseTweaks.Springify.purekfd",
+            "screenshots":[
+            ],
+            "varOnly":true
+        },    ]
 }
