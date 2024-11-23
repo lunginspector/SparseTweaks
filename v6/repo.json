@@ -32,7 +32,7 @@
             "icon": "assets/SpringifyIcon.png",
             "banner":"assets/SpringifyBanner.png",
             "path": "pkgs/com.SparseTweaks.Springify.purekfd",
-            "screenshots":[assets/screenshots/SpringifyScreenshot.png],
+            "screenshots":["assets/screenshots/SpringifyScreenshot.png"],
             "varOnly":true
         }
     ]
