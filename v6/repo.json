@@ -28,7 +28,7 @@
             "author": "SparseTweaks",
             "description": "A collection of SpringBoard tweaks.",
             "long_description":"Springify is a collection of SpringBoard tweaks, optimized for SparseRestore. \n \nFeature List:\n- Disable Breadcrumbs\n- Disable Live App Icons\n- Disable Reachability\n- Disable Notification Center Blur\n- Disable Camera Prelaunch\n- Show Supervision Text\n- Suppress App Shortcut Truncation\n- Don’t Lock while Charging\n- Don’t Lock after Respring\n- Don’t Lock EVER\n- Disable Low Power Alert\n- Suppress No SIM Alert\n- Relaunch FMI on LPM\n- Enable WiFi RSSI\n- Enable Cellular RSSI\n- Enable Status Bar Demo Mode Override\n- Enable AirPlay CC Radar\n- Disable Proximity Features",
-            "version": "1.0",
+            "version": "1.1.0",
             "icon": "assets/SpringifyIcon.png",
             "banner":"assets/SpringifyBanner.png",
             "path": "pkgs/com.SparseTweaks.Springify.purekfd",
